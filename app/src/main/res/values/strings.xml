@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Category name for family [CHAR LIMIT=20] -->
+    <string name="category_family">Family</string>
+
+    <!-- Category name for the nature locations [CHAR LIMIT=20] -->
+    <string name="category_nature">Nature</string>
+
+    <!-- Category name for the fun locations [CHAR LIMIT=20] -->
+    <string name="category_fun">Fun</string>
+
+    <!-- Category name for the restaurants [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Restaurant Filling Station [CHAR LIMIT=20] -->
+    <string name="filling_station">Filling Station</string>
+
+    <!-- Restaurant Filling Station [CHAR LIMIT=20] -->
+    <string name="filling_station_address">11200 WA-104, Kingston, WA 98346</string>
+
+    <!-- Restaurant Mossback Restaurant [CHAR LIMIT=20] -->
+    <string name="moss_back">Mossback</string>
+
+    <!-- Restaurant address Mossback Restaurant [CHAR LIMIT=40] -->
+    <string name="moss_back_address">26185 Ohio Ave NE, Kingston, WA 98346</string>
+
+    <!-- Restaurant Westside Pizza [CHAR LIMIT=20] -->
+    <string name="westside_pizza">Westside Pizza</string>
+
+    <!-- Restaurant address Westside Pizza  [CHAR LIMIT=40] -->
+    <string name="westside_pizza_address">25960 Ohio Ave NE Suite #102, Kingston, WA 98346</string>
+
+    <!-- Nature: North Kitsap Heritage Park [CHAR LIMIT=20] -->
+    <string name="north_kitsap_heritage">North Kitsap Heritage Park</string>
+
+    <!-- Nature address: North Kitsap Heritage Park [CHAR LIMIT=20] -->
+    <string name="north_kitsap_hertitage_address">Miller Bay Rd NE, Kingston, WA 98346</string>
+
+    <!-- Nature: Saltair Beach Park [CHAR LIMIT=20] -->
+    <string name="saltair_beach">Saltair Beach Park</string>
+
+    <!-- Nature address: Saltair Beach Park [CHAR LIMIT=40] -->
+    <string name="saltair_beach_address">25955 Washington Blvd NE, Kingston, WA 98346</string>
+
+    <!-- Nature: Heronswood Garden [CHAR LIMIT=20] -->
+    <string name="heronswood_garden">Heronswood Garden</string>
+
+    <!-- Nature address: Heronswood Garden [CHAR LIMIT=20] -->
+    <string name="heronswood_garden_address">7530 NE 288th St, Kingston, WA 98346</string>
+
+    <!-- Fun: Kingston Ferry [CHAR LIMIT=20] -->
+    <string name="kingston_ferry">Kingston Ferry Terminal</string>
+
+    <!-- Fun address: Kingston Ferry [CHAR LIMIT=40] -->
+    <string name="kingston_ferry_address">11264 State Route 104, Kingston, WA 98346</string>
+
+    <!-- Fun: The Point Casino and Hotel [CHAR LIMIT=20] -->
+    <string name="the_point_casino">The Point Casino and Hotel</string>
+
+    <!-- Fun address: The Point Casino and Hotel [CHAR LIMIT=40] -->
+    <string name="the_point_casino_address">7989 NE Salish Ln, Kingston, WA 98346</string>
+
+    <!-- Fun: The Haunted Walker Ames House [CHAR LIMIT=20] -->
+    <string name="walker_ames">The Haunted Walker Ames House</string>
+
+    <!-- Fun address: The Haunted Walker Ames House [CHAR LIMIT=40] -->
+    <string name="walker_ames_address">32340 Rainier Ave NE Port Gamble, WA</string>
+
+    <!-- Family: Suquamish Museum [CHAR LIMIT=20] -->
+    <string name="suquamish_museum">Suquamish Museum</string>
+
+    <!-- Family address: Suquamish Museum [CHAR LIMIT=20] -->
+    <string name="suquamish_museum_address">6861 NE South St, Suquamish, WA 98392</string>
+
+    !-- Family: White Horse Golf Club [CHAR LIMIT=20] -->
+    <string name="white_horse">White Horse Golf Club</string>
+
+    <!-- Family address: White Horse Golf Club [CHAR LIMIT=40] -->
+    <string name="white_horse_address">22795 Three Lions Pl NE, Kingston, WA 98346</string>
+
+    <!-- Family: Mora Iced Creamery [CHAR LIMIT=20] -->
+    <string name="mora_iced_creamery">Mora Iced Creamery</string>
+
+    <!-- Family address: Mora Iced Creamery [CHAR LIMIT=40] -->
+    <string name="mora_iced_creamery_address">11250 NE State Hwy 104, Kingston, WA 98346</string>
+
+
+
+</resources>
+
